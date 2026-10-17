@@ -1,0 +1,8 @@
+name: Playwright QA MCP
+version: 0.0.1
+schema: v1
+mcpServers:
+  - name: playwright-ai-qa
+    command: node
+    args:
+      - "C:\\Users\\E.People\\Desktop\\Mental Health App Automation\\mcp-server.js"

@@ -1,0 +1,18 @@
+{
+  "final_score": 73.5,
+  "risk_level": "Moderate",
+  "emotion_detected": "overwhelmed",
+  "text_analysis": "Testing active E2E validation flow",
+  "main_causes": [
+    "heavy workload and debugging stress",
+    "lack of sleep"
+  ],
+  "primary_cause": "heavy workload and debugging stress",
+  "message": "Some parts of your emotional state appear conflicted. Remember, you're not alone!",
+  "consistency_check": "Emotional Conflict",
+  "consistency_message": "Hello man hows's automation with PLaywright! All systems are green and functioning smoothly in the test environment.",
+  "positive_signs": [
+    "strong technical problem solving",
+    "consistent test automation effort"
+  ]
+}
